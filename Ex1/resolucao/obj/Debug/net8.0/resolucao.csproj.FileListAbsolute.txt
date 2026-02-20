@@ -1,0 +1,14 @@
+/home/artur/arthur/Primeira_Lista_de_Exercícios_AED/Ex1/resolucao/bin/Debug/net8.0/resolucao
+/home/artur/arthur/Primeira_Lista_de_Exercícios_AED/Ex1/resolucao/bin/Debug/net8.0/resolucao.deps.json
+/home/artur/arthur/Primeira_Lista_de_Exercícios_AED/Ex1/resolucao/bin/Debug/net8.0/resolucao.runtimeconfig.json
+/home/artur/arthur/Primeira_Lista_de_Exercícios_AED/Ex1/resolucao/bin/Debug/net8.0/resolucao.dll
+/home/artur/arthur/Primeira_Lista_de_Exercícios_AED/Ex1/resolucao/bin/Debug/net8.0/resolucao.pdb
+/home/artur/arthur/Primeira_Lista_de_Exercícios_AED/Ex1/resolucao/obj/Debug/net8.0/resolucao.GeneratedMSBuildEditorConfig.editorconfig
+/home/artur/arthur/Primeira_Lista_de_Exercícios_AED/Ex1/resolucao/obj/Debug/net8.0/resolucao.AssemblyInfoInputs.cache
+/home/artur/arthur/Primeira_Lista_de_Exercícios_AED/Ex1/resolucao/obj/Debug/net8.0/resolucao.AssemblyInfo.cs
+/home/artur/arthur/Primeira_Lista_de_Exercícios_AED/Ex1/resolucao/obj/Debug/net8.0/resolucao.csproj.CoreCompileInputs.cache
+/home/artur/arthur/Primeira_Lista_de_Exercícios_AED/Ex1/resolucao/obj/Debug/net8.0/resolucao.dll
+/home/artur/arthur/Primeira_Lista_de_Exercícios_AED/Ex1/resolucao/obj/Debug/net8.0/refint/resolucao.dll
+/home/artur/arthur/Primeira_Lista_de_Exercícios_AED/Ex1/resolucao/obj/Debug/net8.0/resolucao.pdb
+/home/artur/arthur/Primeira_Lista_de_Exercícios_AED/Ex1/resolucao/obj/Debug/net8.0/resolucao.genruntimeconfig.cache
+/home/artur/arthur/Primeira_Lista_de_Exercícios_AED/Ex1/resolucao/obj/Debug/net8.0/ref/resolucao.dll
