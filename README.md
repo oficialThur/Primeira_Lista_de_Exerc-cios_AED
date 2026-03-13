@@ -59,15 +59,15 @@ Desenvolva um programa para coletar dados de audiência de rádio. A entrada ter
 Implemente a classe **Aluno** conforme o diagrama fornecido.
 
 
-* **Atributos:** `matricula` (int), `nome` (string), `nota1`, `nota2`, `nota3` (double).
+**Atributos:** `matricula` (int), `nome` (string), `nota1`, `nota2`, `nota3` (double).
 
 
  
-* **Método `GetNotaFinal()`:** Retorna a média aritmética das três notas.
+**Método `GetNotaFinal()`:** Retorna a média aritmética das três notas.
 
 
 
-* **Método `GetResultado()`:** Retorna "Aprovado" (≥ 60), "Recuperação" (40-59) ou "Reprovado" (< 40).
+**Método `GetResultado()`:** Retorna "Aprovado" (≥ 60), "Recuperação" (40-59) ou "Reprovado" (< 40).
 
 
 
