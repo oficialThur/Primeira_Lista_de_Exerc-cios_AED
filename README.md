@@ -87,16 +87,16 @@ Projete uma classe **Data** para armazenar dia, mês e ano como inteiros (sem us
 
 
 
-* **Entregáveis:**  
-    **a)** Diagrama de classe;
+**Entregáveis:**  
+    a) Diagrama de classe;
 
 
 
-    **b)** Código fonte;
+    b) Código fonte;
 
 
  
-    **c)** Classe `TestaData` com método `Main`.
+    c) Classe `TestaData` com método `Main`.
 
 
 
@@ -130,8 +130,4 @@ Avalie as afirmações abaixo, corrigindo as falsas:
 **f)** Para um atributo `peso` (float), a assinatura correta do set é `public float setPeso()`.
 
 
-
----
-
-Deseja que eu ajude com a resolução de algum desses exercícios específicos em C#?
 
